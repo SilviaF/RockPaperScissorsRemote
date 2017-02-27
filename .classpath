@@ -32,6 +32,5 @@
 			<attribute name="maven.pomderived" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="D:/Descargas/Eclipse Libraries/system-rules-1.16.0.jar"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>
